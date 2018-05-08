@@ -2,7 +2,7 @@ GA WDI LDN Project 3
 
 
 ![image](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
-# GA WDI-32 Project 3 - StarGazer
+# GA WDI-32 <br> Project 3 - StarGazer
 Set in teams of three we were given 7 days to create a MEAN stack application using:
 - **M**ongo - For the database
 - **E**xpress - For the web-framework
@@ -16,19 +16,18 @@ It also hosts a database of appropriate locations to observe these events from a
 
 Once registered, users are able to add comments, post their own events and locations, and favourite the ones they're most interested in.
 
-##### [Visit website](https://stargazerapp.herokuapp.com/) for best *viewing* experience (the application is not yet designed for mobile).
+##### [Visit the website](https://stargazerapp.herokuapp.com/) for best *viewing* experience (the application is not yet designed for mobile).
 ---
-###### MORE GENERAL INFO HERE
-
-_________________
 
 ###### EVENTS INFO
 
 <p align="center"><img src="https://i.imgur.com/DaPleuv.png" width="700"></p>
 All our Events are displayed in card format, sorted by date. A nested ng-repeat creates titles for each date and then displays those days events underneath.
+<br><br><br>
 
 <p align="center"><img src="https://i.imgur.com/xv06h6q.jpg" width="700"></p>
 Each event has a show page which provides additional information and allows users to comment, favourite and upload images.
+<br><br><br>
 
 
 
@@ -36,6 +35,7 @@ Each event has a show page which provides additional information and allows user
 
 <p align="center"><img src="https://i.imgur.com/QyrlLO2.png" width="700"></p>
 Star Gazer has hard-coded data for the best places to view the celestial events from. This data is presented in a *card format* with a map at the top of the page containing the location of all places displayed as weather icons, pulling weather data from each area to determine which icon will be on show.
+<br><br><br>
 
 <p align="center"><img src="https://i.imgur.com/jVEWItC.png" width="700"></p>
 
@@ -107,12 +107,6 @@ We would have liked to add direct messaging so that users could keep in touch af
 
 A global gallery, which would push images uploaded by users into a page for users to scroll through, add comments and favourite the ones they liked.
 
-
----
-
-FINAL STATEMENT GOES HERE
-
----
 
 ## Setup instructions
 
